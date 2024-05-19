@@ -1,0 +1,178 @@
+.head {
+  display: flex;
+  align-items: center;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  font-weight: bolder;
+}
+
+.caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.li {
+  padding: 10px;
+  transition: all 1s;
+  cursor: pointer;
+}
+
+.li:hover {
+  color: rgb(255, 30, 116);
+}
+
+.img {
+  width: 103px;
+  height: 90px;
+  object-fit: cover;
+}
+
+body {
+  margin: 0px;
+}
+
+.img2 {
+  height: 204px;
+}
+
+.img3 {
+  height: 419px;
+}
+
+.desc {
+  display: flex;
+  margin-top: -4px;
+}
+
+.socials {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid rgb(192, 192, 192);
+  padding-left: 27px;
+}
+
+.social-h {
+  width: 300px;
+}
+
+.social-p {
+  width: 270px;
+}
+
+.pic {
+  object-fit: cover;
+  width: 100%;
+}
+
+.socials2 {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgb(192, 192, 192);
+  padding-left: 40px;
+}
+
+.socials3 {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgb(192, 192, 192);
+  padding-left: 40px;
+  padding-bottom: 28px;
+}
+
+.picture {
+  height: 343px;
+  border-radius: 20px;
+  object-fit: cover;
+  margin: 48px;
+}
+
+.pc {
+  display: flex;
+}
+
+.rr {
+  display: flex;
+  align-items: center;
+}
+
+.im {
+  height: 177px;
+  width: 198px;
+}
+
+.button {
+  background-color: rgb(248, 228, 50);
+  border: none;
+  padding: 12px;
+  width: 168px;
+  border-radius: 9px;
+  transition: all 1s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: bisque;
+}
+.fg {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.down {
+  background-color: rgb(255, 238, 0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btt1 {
+  background-color: black;
+  color: beige;
+  border: 2px solid white;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.btt2 {
+  display: flex;
+}
+
+.i1 {
+  height: 254px;
+  width: 428px;
+}
+
+.i2 {
+  display: flex;
+}
+
+.f1 {
+  display: flex;
+  border: 1px solid rgb(190, 190, 190);
+  align-items: center;
+}
+
+.f {
+  padding: 10px;
+  transition: all 1s;
+  cursor: pointer;
+}
+
+.f:hover {
+  color: rgb(255, 30, 116);
+}
+
+.f2 {
+  padding-right: 450px;
+}
+
+.icon1 {
+  padding: 5px;
+}

@@ -1,0 +1,80 @@
+@media (max-width: 1045px) {
+  .rr {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .button {
+    background-color: rgb(248, 228, 50);
+    border: none;
+    padding: 12px;
+    width: 168px;
+    border-radius: 9px;
+    transition: all 1s;
+    cursor: pointer;
+    margin-bottom: 24px;
+  }
+  .desc {
+    display: flex;
+    margin-top: -4px;
+    flex-wrap: wrap;
+  }
+  .socials3 {
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+  }
+  .i2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .picture {
+    height: 175px;
+    border-radius: 20px;
+    object-fit: cover;
+    margin: 14px;
+  }
+  .fg {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .caption {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .li {
+    padding: 7px;
+    transition: all 1s;
+    cursor: pointer;
+  }
+  .i1 {
+    height: 226px;
+    width: 359px;
+  }
+  .picture {
+    height: 175px;
+    border-radius: 20px;
+    object-fit: cover;
+    margin: 5px;
+  }
+  .list {
+    list-style: none;
+    display: flex;
+    font-weight: bolder;
+    padding-left: 0px;
+    font-size: 11px;
+  }
+
+  .f1 {
+    flex-wrap: wrap;
+  }
+
+  .f2 {
+    padding-right: 0;
+  }
+}
